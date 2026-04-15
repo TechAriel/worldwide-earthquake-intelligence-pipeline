@@ -10,6 +10,8 @@ This guide walks through building the QuakeFlow pipeline.
 1. From Microsoft Fabric create a new Workspace: `Geological Survey Project`
 2. Create a **Lakehouse**: `earthquakes_lakehouse`
 
+![Workspace](screenshots/workspace_items.png)
+
 ---
 
 ## Understand the Data Source
